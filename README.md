@@ -17,6 +17,5 @@ Atualmente no 7º período no bacharelado em Matemática. Na matemática adquiri
 Meu Portifólio de Data Science
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Análise dos Dados do Airbnb - Atenas:** https://bit.ly/3aezwVQ
