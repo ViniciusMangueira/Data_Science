@@ -19,4 +19,4 @@ Meu Portifólio de Data Science
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
 
-* **Análise dos Dados do Airbnb - Atenas:** https://bit.ly/3t498pZ
+* **Análise dos Dados do Airbnb - Atenas:** https://bit.ly/3aezwVQ
