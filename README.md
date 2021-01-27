@@ -18,4 +18,4 @@ Meu Portifólio de Data Science
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Atenas (Grécia):** https://bit.ly/2Mz61FG
+* **Análise dos Dados do Airbnb - Atenas (Grécia):** https://bit.ly/3pty0pc
