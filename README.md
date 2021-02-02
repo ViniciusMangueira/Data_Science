@@ -19,3 +19,4 @@ Meu Portifólio de Data Science
 ## Projetos:
 
 * **Análise dos Dados do Airbnb - Atenas (Grécia):** https://bit.ly/3pty0pc
+* **Análise do suicídio no Brasil entre 2014-2018, com Data Science:** https://bit.ly/36S02n5
