@@ -20,3 +20,6 @@ Meu Portifólio de Data Science
 
 * **Análise dos Dados do Airbnb - Atenas (Grécia):** https://bit.ly/3pty0pc
 * **Análise do suicídio no Brasil entre 2014-2018, com Data Science:** https://bit.ly/3rfHeFR
+* **Análise da Violência no Rio de Janeiro:** https://bit.ly/37jZYMT
+* **O Terrível Naufrágio do Titanic...Será que eu sobreviveria? Vamos descobrir usando Machine Learning!:** https://bit.ly/3jT5gUK
+* **COVID-19, Uma Breve Análise Sobre o Estrago Feito até Agora. :** https://bit.ly/3dhzorG
