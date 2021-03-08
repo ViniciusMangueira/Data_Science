@@ -23,4 +23,4 @@ Meu Portifólio de Data Science
 * **Análise da Violência no Rio de Janeiro:** https://bit.ly/3u4OWVq
 * **O Terrível Naufrágio do Titanic...Será que eu sobreviveria? Vamos descobrir usando Machine Learning!:** https://bit.ly/3jT5gUK
 * **COVID-19, Uma Breve Análise Sobre o Estrago Feito até Agora. :** https://bit.ly/3dhzorG
-* **Churn, o que é e como prever com Machine Learning! : ** https://bit.ly/2OtJ3AZ
+* **Churn, o que é e como prever com Machine Learning! :** https://bit.ly/2OtJ3AZ
