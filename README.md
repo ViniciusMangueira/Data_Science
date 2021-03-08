@@ -25,3 +25,4 @@ Meu Portifólio de Data Science
 * **COVID-19, Uma Breve Análise Sobre o Estrago Feito até Agora. :** https://bit.ly/3dhzorG
 * **Churn, o que é e como prever com Machine Learning! :** https://bit.ly/2OtJ3AZ
 * **Data Science para Classificação de Cidades: Onde a Magia Acontece. :** https://bit.ly/3v8FIYK
+* **Previsão do Risco de Crédito com Machine Learning! :**https://bit.ly/3t1MKNm
