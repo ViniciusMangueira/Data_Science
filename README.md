@@ -21,8 +21,6 @@ Alguns de meus conhecimentos:
 • SQL;
 • Estatística;
 
-**Background in:** Python, Machine Learning, Álgebra Linear e  Análise.
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/vinícius-mangueira-a94aa5204/)
 * [Medium](https://medium.com/@viniciusrfm)
