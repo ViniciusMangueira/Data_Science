@@ -4,15 +4,15 @@
 
 # Vinicius Mangueira
 
-Graduando em Matemática pela Universidade Federal do Paraíba (7/8), onde trabalhei por três anos com pesquisa científica em Geometria Diferencial, estudando Análise Geométrica.
+Tenho experiência em Análise de Dados, Modelagem Estatística, Machine Learning e Desenvolvimento de Dashboards Interativos para mostrar os projetos desenvolvidos (Streamlit).
 
 Autodidata em Data Science e apaixonado pela área assim como por Inteligência Artificial, decidi me especializar em Ciência de Dados e hoje trabalho como Cientista de Dados na Mundiale.
-
-Tenho experiência em Análise de Dados, Modelagem Estatística, Machine Learning e Desenvolvimento de Dashboards Interativos para mostrar os projetos desenvolvidos.
 
 Tenho interesse em técnicas de Machine Learning e Inteligência Artificial, onde atualmente busco aumentar meus conhecimentos com cursos e livros da área.
 
 Utilizo meu perfil no LinkedIn para compartilhar meus conhecimentos adquiridos nessa caminhada profissional e também para agregar pessoas tão apaixonadas pelo Data Science quanto eu.
+
+Graduando em Matemática pela Universidade Federal do Paraíba (7/8), onde trabalhei por três anos com pesquisa científica em Geometria Diferencial, estudando Análise Geométrica.
 
 Alguns de meus conhecimentos:
 
